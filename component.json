@@ -2,10 +2,10 @@
   "name": "spectrum",
   "version": "1.2.0",
   "scripts": [
-    "./spectrum.js"
+    "spectrum.js"
   ],
   "styles": [
-    "./spectrum.css"
+    "spectrum.css"
   ],
   "docs": "http://bgrins.github.com/spectrum",
   "homepage": "http://bgrins.github.com/spectrum",

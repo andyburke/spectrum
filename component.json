@@ -1,6 +1,7 @@
 {
   "name": "spectrum",
   "version": "1.2.0",
+  "main": "spectrum.js",
   "scripts": [
     "spectrum.js"
   ],
